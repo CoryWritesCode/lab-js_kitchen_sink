@@ -1,1 +1,3 @@
-# lab-js_kitchen_sink
+# js-lab Kitchen Sink
+
+## Covalence Javascript Lab "Kitchen Sink"
